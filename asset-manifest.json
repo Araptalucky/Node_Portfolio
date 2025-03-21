@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Node_Portfolio/static/css/main.6d4bf541.css",
+    "main.js": "/Node_Portfolio/static/js/main.44e1ed6e.js",
+    "static/js/453.ed3810f9.chunk.js": "/Node_Portfolio/static/js/453.ed3810f9.chunk.js",
+    "static/media/arapta.jpeg": "/Node_Portfolio/static/media/arapta.20a49f8dbaa35633f1c8.jpeg",
+    "index.html": "/Node_Portfolio/index.html",
+    "main.6d4bf541.css.map": "/Node_Portfolio/static/css/main.6d4bf541.css.map",
+    "main.44e1ed6e.js.map": "/Node_Portfolio/static/js/main.44e1ed6e.js.map",
+    "453.ed3810f9.chunk.js.map": "/Node_Portfolio/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d4bf541.css",
+    "static/js/main.44e1ed6e.js"
+  ]
+}
